@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=PT+Serif:wght@700&family=Poppins:wght@400;500;600;700&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/bouton.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	color: #020122;
+	background :#FDF7FA;
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	font-size: 24px;
+	font-weight: 400;
+} 
+h1, h2 {
+	font-family: 'Lobster', cursive;
+}
+h1 {
+color : #FDF7FA;
+font-weight: 500;
+letter-spacing: 6px;
+font-size: 50px;
+text-align: center;
+} 
+h2 {
+color : #6D6466;
+text-align: center;
+font-size: 30px;
+} 
+a {
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none
+}
+
